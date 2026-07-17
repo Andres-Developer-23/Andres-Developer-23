@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Andrés Bravo </b><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
-<h2 align="left">👨🏻‍💻 Acerca de mí</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Sobre Mí</h2>
 
 <br>
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠 &nbsp;Pila de Tecnología
+### 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
@@ -34,14 +34,15 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 ---
-### 🗃 &nbsp;Bases de Datos
+
+### 🗄️ Bases de Datos
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ---
 
-### 🧰 &nbsp;Control de Versiones y Herramientas
+### ⚙️ Herramientas y Control de Versiones
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -49,12 +50,13 @@
 
 ---
 
-### 🤝🏻 &nbsp;Conecta conmigo
+### 📫 Conecta conmigo
 
 <p align="center">
   <a href="mailto:andres01032001@gmail.com">
     <img src="https://img.shields.io/badge/📧_Andres%20Bravo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%230D1117"/>
   </a>
+</p>
 
 ---
 
